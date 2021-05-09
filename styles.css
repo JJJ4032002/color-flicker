@@ -31,7 +31,18 @@
   padding-top: 50vh;
   text-align: center;
 }
+#color {
+  padding: 10px;
+  font-family: monospace;
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
 #content-p {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  display: inline;
   font-size: 25px;
   font-family: monospace;
 }
